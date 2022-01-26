@@ -1,0 +1,55 @@
+clustering
+	Estudio de la tendencia de clustering
+		Hopkins statistic 
+		Visual Assessment of cluster Tendency
+	Calidad de los clusters
+
+
+	Algoritmos 
+		kmeans
+		Elbow
+		PAM o kmedoids
+		Clara
+		Herarchical
+		Dendrogramas
+		Model based clustering
+		DBSCAN
+	
+
+
+series de tiempo
+	Arima
+	SSA
+
+
+clasificacion	
+	Uplift DRF
+	
+
+regression
+	GAMLSS
+
+regression clasificacion 
+	SVM-SVR
+	XGBoost
+	GAM
+	RNN
+	RuleFit
+Riesgo 
+	CoxPH (as clasification, event 0 or 1 whit time series)
+
+
+tipo III SS
+	ANOVA GLM
+
+
+OTROS NO SUPERVISADO
+	GLRM
+	Bosque de aislamiento
+	Bosque de aislamiento extendido
+	PCA
+OTROS
+	Codificación de destino
+	TF-IDF
+	Word2vec
+	Importancia de la variable de permutación
